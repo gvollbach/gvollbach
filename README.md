@@ -1,1 +1,2 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gvollbach&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=transparent)
+![GitHub complete stats](https://github-readme-stats.vercel.app/api?username=gvollbach&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=transparent)
+![GitHub yearly stats](https://github-readme-stats.vercel.app/api?username=gvollbach&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
